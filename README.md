@@ -34,13 +34,16 @@ A classic Snake Game built with HTML, CSS, and Vanilla JavaScript. The game feat
 - **JavaScript (ES6)** – Game logic, movement, collision detection, and timers
 
 ## 📂 Project Structure
+
+```text
 snake-game/
 ├── index.html
 ├── snake.css
 ├── snake.js
 └── README.md
+```
 
-🚀 Run Locally
+## 🚀 Run Locally
 
 1. Clone the repository:
 
